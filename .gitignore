@@ -1,0 +1,7 @@
+# Copyrighted course material - not to be redistributed
+001-2024-0328_DLMAIRIL01_Course_Book.pdf
+*.pdf
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
